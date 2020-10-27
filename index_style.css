@@ -1,0 +1,58 @@
+ 
+  @media only screen and (max-width : 992px) 
+  {        .main ul li
+  {        
+    float :right;      
+    } 
+       } 
+.navigation{
+     margin-top:15px;
+     background-color: teal;
+    }
+    .navbar-brand{
+        color: white;
+    }
+    .navbar-brand a:hover{
+        text-decoration: none;
+    }    
+    .nav-link{
+        color: white;
+    }
+    .main_area{
+        margin:10px 5px;
+        padding: 10px 5px;
+    }
+    .navbar-toggler-icon{
+        color: white;
+    }
+     .card-link a{
+        color: teal;
+    }
+    .search-area{
+        margin:10px 5px;
+        padding: 10px 5px;
+
+    }
+     .trending-section{
+        margin:10px 5px;
+        padding: 10px 5px;
+
+     } 
+     .nav-link:hover{
+         color: white;
+     } 
+     .copyright{
+        margin:0px 0px 0px 0px;
+        padding: 10px 5px;
+
+         background-color: teal;
+         color: white;
+           
+        }
+        .copyright a{
+            color: white;
+            padding:0px 5px 0px 0px ;
+        }
+    .copyright a :hover{
+        color: white;
+    }
